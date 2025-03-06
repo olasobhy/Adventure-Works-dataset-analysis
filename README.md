@@ -1,5 +1,5 @@
 
-# Sales Dashboard – Power BI  
+# Adventure-Works-dataset-analysis 
 
 ## Overview  
 This project showcases an **interactive sales dashboard** built using Power BI with **Adventure Works** data.<br>  
